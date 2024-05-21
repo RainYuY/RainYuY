@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Stellar1999
 - 👀 I’m interested in flow-engine and distributed-system
 - 🌱 I’m currently learning Java/Go/C++
-- 📖 I'm a Apache Dubbo Contributor
 
 [![Stellar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Stellar1999&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
