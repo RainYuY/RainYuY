@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @Stellar1999
-- 👀 I’m interested in CS2
 
 [![Stellar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Stellar1999&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
