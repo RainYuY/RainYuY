@@ -1,8 +1,23 @@
-- 👋 Hi, I’m @Stellar1999
+<h1 align="center">Hi 👋, I'm Stellar</h1>
+<h3 align="center">A passionate frontend developer from India</h3>
 
-[![Stellar's GitHub stats](https://github-readme-stats.vercel.app/api?username=Stellar1999&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=stellar1999&label=Profile%20views&color=0e75b6&style=flat" alt="stellar1999" /> </p>
 
-<!---
-Stellar1999/Stellar1999 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=stellar1999" alt="stellar1999" /></a> </p>
+
+- 🔭 I’m currently working on [Apache-Dubbo](https://github.com/apache/dubbo)
+
+- 📫 How to reach me **Stellar.yu1999@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=stellar1999&show_icons=true&locale=en&layout=compact" alt="stellar1999" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=stellar1999&show_icons=true&locale=en" alt="stellar1999" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=stellar1999&" alt="stellar1999" /></p>
