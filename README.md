@@ -9,6 +9,8 @@
 
 - 📫 How to reach me **Stellar.yu1999@gmail.com**
 
+- 💼 **Looking for job opportunities related to middleware.**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
