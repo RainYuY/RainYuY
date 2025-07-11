@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on [Apache-Dubbo](https://github.com/apache/dubbo)
 
-- 📫 How to reach me **Stellar.yu1999@gmail.com**
+- 📫 How to reach me **rainyu@apache.org**
 
 - 💼 **Looking for job opportunities related to middleware.**
 
