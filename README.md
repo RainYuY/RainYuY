@@ -8,8 +8,6 @@
 
 - 📫 How to reach me **rainyu@apache.org**
 
-- 💼 **Looking for job opportunities related to middleware.**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>
