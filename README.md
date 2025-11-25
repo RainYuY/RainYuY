@@ -6,7 +6,7 @@
   1. Dubbo usage support  
   2. Dubbo function consultation  
   3. Want to contribute to Dubbo  
-  You can contact via the community mailing list (preferred), send me an email, or add my contact information.
+  You can reach out by raising an Issue, contacting via the community mailing list (preferred), sending me an email, or adding my contact information.
 
 - 📫 How to reach me: **rainyu@apache.org** | WeChat: Momoka_Ryo
 
