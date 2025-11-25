@@ -1,9 +1,15 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=stellar1999&label=Profile%20views&color=0e75b6&style=flat" alt="stellar1999" /> </p>
 
 
-- 🔭 I’m currently working on [Apache-Dubbo](https://github.com/apache/dubbo)
+- 🔭 I’m currently responsible for the daily maintenance of the main Dubbo repository and some related repositories in [Apache-Dubbo](https://github.com/apache/dubbo).  
+  Feel free to reach out if you need the following support:  
+  1. Dubbo usage support  
+  2. Dubbo function consultation  
+  3. Want to contribute to Dubbo  
+  You can contact via the community mailing list (preferred), send me an email, or add my contact information.
 
-- 📫 How to reach me **rainyu@apache.org**
+- 📫 How to reach me: **rainyu@apache.org** | WeChat: Momoka_Ryo
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -14,6 +20,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=RainYuY&show_icons=true&locale=en&layout=compact" alt="stellar1999" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=RainYuY&show_icons=true&locale=en" alt="stellar1999" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=RainYuY&show_icons=true&locale=en" alt="RainYuY" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=RainYuY&" alt="stellar1999" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=RainYuY&" alt="RainYuY" /></p>
