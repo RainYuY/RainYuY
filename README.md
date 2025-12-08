@@ -11,10 +11,10 @@
 - 📫 How to reach me: **rainyu@apache.org** | WeChat: Momoka_Ryo
 * A friendly reminder: Please note that I 于禹 (Yu Yu / Rain Yu) am different from 于雨 ([@AlexStock](https://github.com/AlexStocks)), who is the lead maintainer of DubboGo.*  
 
-<a href="https://github.com/tisonkun">
+<a href="https://github.com/RainYuY">
   <img align="center" width="49%" src="./metrics-main.svg" />
 </a>
-<a href="https://github.com/tisonkun">
+<a href="https://github.com/RainYuY">
   <img align="center" width="49%" src="./metrics-lang-notable.svg" />
 </a>
 
