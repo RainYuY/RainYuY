@@ -9,6 +9,7 @@
   You can reach out by raising an Issue, contacting via the community mailing list (preferred), sending me an email, or adding my contact information.
 
 - 📫 How to reach me: **rainyu@apache.org** | WeChat: Momoka_Ryo
+- I like to play CS2. Platforms like FACEIT, Perfect World, 5E Play, or the official servers all work for me.
 * A friendly reminder: Please note that I 于禹 (Yu Yu / Rain Yu) am different from 于雨 ([@AlexStock](https://github.com/AlexStocks)), who is the lead maintainer of DubboGo.*  
 
 <a href="https://github.com/RainYuY">
