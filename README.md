@@ -11,7 +11,6 @@
 - 📫 How to reach me: **rainyu@apache.org** | WeChat: Momoka_Ryo
 - I like to play CS2. Platforms like FACEIT, Perfect World, 5E Play, or the official servers all work for me.
 - If you want to play with me, I’d never say no! My in-game IDs are Yuk1na or Yuk1na_.
-* A friendly reminder: Please note that I 于禹 (Yu Yu / Rain Yu) am different from 于雨 ([@AlexStock](https://github.com/AlexStocks)), who is the lead maintainer of DubboGo.*  
 
 <a href="https://github.com/RainYuY">
   <img align="center" width="49%" src="./metrics-main.svg" />
