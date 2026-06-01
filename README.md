@@ -3,7 +3,7 @@
   Apache Dubbo PMC Member. Distributed System / Low-Code / OpenSource / AI &
   Agent.
 
-  - Working on **Apache Dubbo** and **DubboA2A**
+  - Working on **Apache Dubbo** and **A2A**
   - Learning **Agent Framework** and **Distributed System**
   - Ask me about **Dubbo, Java, Agent**
   - Looking for an opportunity with reasonable work-life balance
